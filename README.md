@@ -41,7 +41,7 @@ touch .env
 GOOGLE_API_KEY=your_gemini_api_key_here
 
 5. Run the App
-streamlit run app.py
+streamlit run yt_summary.py
 
 When the webpage is loaded, the website will look like following ->
 <img width="785" alt="image" src="https://github.com/user-attachments/assets/93111d5a-d6a7-40bd-ac3f-7a10b265c513" />
